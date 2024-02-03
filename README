@@ -11,9 +11,13 @@ Install
 Usage
 -----
 
-usage:: 
+usage::
 
   email_extractor [-h] [-l LIMIT] [-u URL]
+  '
+
+
+email_extractor -u https://www.amfiindia.com/aboutamfi -l 3
 
 Web Email Extractor
 -------------------
